@@ -368,6 +368,10 @@ header .container {
         header .container .navbar-nav .nav-item h5 {
           margin-left: -20px;
           font-size: 13px !important; }
+  header .container .navbar-nav .nav-item .btn1{
+    width: 100px !important;
+    margin-left:30px !important;
+  }
     header .container .row .rr1 {
       margin-top: -100px !important; }
       header .container .row .rr1 .img1 {
@@ -456,7 +460,7 @@ header .container {
     .section3 .container .svg2 {
       height: 100px !important;
       margin-top: 140px !important;
-      margin-left: -230px !important;
+      margin-left: -210px !important;
       width: 350px !important; }
 
   .section4 {

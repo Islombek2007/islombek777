@@ -356,8 +356,8 @@ header .container {
     header .container .navbar-nav {
       position: absolute;
       margin-top: 50px !important;
-      margin-left: -300px !important;
-      width: 350px !important;
+      margin-left: -270px !important;
+      width: 365px !important;
       display: flex;
       flex-direction: row; }
       header .container .navbar-nav .nav-item {
@@ -397,9 +397,10 @@ header .container {
     margin-left: -220px !important;
     font-size: 30px !important; }
   .section1 .container .h44 {
+    font-size: 14px !important;
     margin-left: -220px !important;
     text-align: center;
-    width: 355px !important; }
+    width: 345px !important; }
   .section1 .container .re7 {
     width: 355px !important;
     margin-left: -275px !important; }
@@ -425,26 +426,27 @@ header .container {
     margin-left: -230px !important;
     font-size: 25px !important; }
   .section2 .container .col-5 .h41 {
+    font-size: 14px !important;
     margin-left: -240px !important;
     text-align: center;
-    width: 355px !important; }
+    width: 350px !important; }
   .section2 .container .row .div77 {
-    margin-left: -220px !important; }
+    margin-left: -210px !important; }
   .section2 .container .row .div66 {
-    margin-left: -220px !important;
+    margin-left: -210px !important;
     margin-top: 600px !important; }
   .section2 .container .row .div55 {
-    margin-left: -220px !important;
+    margin-left: -210px !important;
     margin-top: 865px !important; }
   .section2 .container .row .div11 {
     margin-top: 820px !important;
-    margin-left: -220px !important; }
+    margin-left: -210px !important; }
   .section2 .container .row .div12 {
     margin-top: 1080px !important;
-    margin-left: -220px !important; }
+    margin-left: -210px !important; }
   .section2 .container .row .div13 {
     margin-top: 1335px !important;
-    margin-left: -220px !important; }
+    margin-left: -210px !important; }
 
   .section3 {
     margin-top: 850px !important; }
@@ -454,7 +456,7 @@ header .container {
     .section3 .container .svg2 {
       height: 100px !important;
       margin-top: 140px !important;
-      margin-left: -280px !important;
+      margin-left: -230px !important;
       width: 350px !important; }
 
   .section4 {

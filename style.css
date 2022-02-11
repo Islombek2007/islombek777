@@ -406,6 +406,7 @@ header .container {
     .section1 .container .re7 input {
       width: 355px !important; }
     .section1 .container .re7 .btn2 {
+      display: none !important;
       margin-top: 40px !important;
       width: 50px !important;
       height: 35px !important;
@@ -428,33 +429,33 @@ header .container {
     text-align: center;
     width: 355px !important; }
   .section2 .container .row .div77 {
-    margin-left: -170px !important; }
+    margin-left: -220px !important; }
   .section2 .container .row .div66 {
-    margin-left: -170px !important;
+    margin-left: -220px !important;
     margin-top: 600px !important; }
   .section2 .container .row .div55 {
-    margin-left: -170px !important;
+    margin-left: -220px !important;
     margin-top: 865px !important; }
   .section2 .container .row .div11 {
     margin-top: 820px !important;
-    margin-left: -170px !important; }
+    margin-left: -220px !important; }
   .section2 .container .row .div12 {
     margin-top: 1080px !important;
-    margin-left: -170px !important; }
+    margin-left: -220px !important; }
   .section2 .container .row .div13 {
     margin-top: 1335px !important;
-    margin-left: -170px !important; }
+    margin-left: -220px !important; }
 
   .section3 {
     margin-top: 850px !important; }
     .section3 .container .btn3 {
       margin-top: -50px !important;
-      margin-left: -100px !important; }
+      margin-left: -130px !important; }
     .section3 .container .svg2 {
       height: 100px !important;
       margin-top: 140px !important;
       margin-left: -280px !important;
-      width: 355px !important; }
+      width: 350px !important; }
 
   .section4 {
     margin-top: -110px !important; }
@@ -469,18 +470,18 @@ header .container {
       text-align: center;
       width: 355px !important; }
     .section4 .container .row .col-5 .btn3 {
-      margin-left: -95px !important; }
+      margin-left: -120px !important; }
     .section4 .container .row .col-6 .row .div23 {
-      margin-left: -290px !important;
+      margin-left: -320px !important;
       margin-top: 400px !important; }
     .section4 .container .row .col-6 .row .div20 {
-      margin-left: -290px !important;
+      margin-left: -320px !important;
       margin-top: 665px !important; }
     .section4 .container .row .col-6 .row .div25 {
-      margin-left: -290px !important;
+      margin-left: -320px !important;
       margin-top: 640px !important; }
     .section4 .container .row .col-6 .row .div26 {
-      margin-left: -290px !important;
+      margin-left: -320px !important;
       margin-top: 900px !important; }
 
   .section5 {
